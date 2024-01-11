@@ -1,4 +1,5 @@
 Neural Network for Collision Prediction
+
 Purpose
 The purpose of this assignment is to familiarize you with neural networks and their applications.
 More specifically, you will learn to collect training data for a robotics task and, in turn, design a
@@ -8,8 +9,9 @@ train a neural network using backpropagation that predicts whether the robot is 
 with any walls or objects in the next time step. All of the theories and best-practices introduced
 in the class are applicable here. Your task is to make sure the little fellow can safely explore its
 environment!
+
+
 Objectives
-Students will be able to:
 ● Collect and manage a dataset used to train and test a neural network.
 ● Define and use PyTorch DataLoaders to manage a PyTorch Datasets.
 ● Design your own neural network architecture in PyTorch.
